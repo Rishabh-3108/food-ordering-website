@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables ✅ ADD THESE 3 LINES
+.env
+.env.local
+.env.*.local
